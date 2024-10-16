@@ -3,8 +3,8 @@ C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\contenhandle\Docum
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\contenhandle\ElasticDoc.java
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\controller\DocumentController.java
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\controller\JsonReader.java
-C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\controller\SearchController.java
-C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\dto\ElasticsearchConfig.java
+C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\controller\MainPage.java
+C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\dto\DocSearchRequest.java
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\dto\SearchResult.java
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\repository\DocumentRepo.java
 C:\My Stuff\Projects\codex\src\main\java\com\codex_task\codex\repository\ElasticDocumentRepo.java

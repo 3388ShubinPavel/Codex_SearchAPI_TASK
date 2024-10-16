@@ -1,13 +1,13 @@
 com\codex_task\codex\contenhandle\ElasticDoc.class
 com\codex_task\codex\controller\JsonReader.class
 com\codex_task\codex\controller\PatchRequest.class
-com\codex_task\codex\dto\ElasticsearchConfig.class
+com\codex_task\codex\controller\MainPage.class
 com\codex_task\codex\CodexApplication.class
 com\codex_task\codex\contenhandle\Document.class
 com\codex_task\codex\repository\DocumentRepo.class
 com\codex_task\codex\controller\JsonReader$1.class
 com\codex_task\codex\dto\SearchResult.class
-com\codex_task\codex\controller\SearchController.class
+com\codex_task\codex\dto\DocSearchRequest.class
 com\codex_task\codex\controller\DocumentController.class
 com\codex_task\codex\repository\ElasticDocumentRepo.class
 com\codex_task\codex\service\DocumentService.class
